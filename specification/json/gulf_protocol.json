@@ -26,8 +26,8 @@
       ]
     },
     "componentUpdate": {
-      "title": "ComponentUpdate Message",
-      "description": "A schema for a ComponentUpdate message in the A2A streaming UI protocol.",
+      "title": "SurfaceUpdate Message",
+      "description": "A schema for a SurfaceUpdate message in the A2A streaming UI protocol.",
       "type": "object",
       "properties": {
         "type": {
